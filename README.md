@@ -28,6 +28,19 @@ Administrators can access dashboards, monthly statistics, and operational report
 - Management of received packages  
 - Operational and financial reporting  
 
+## 📌 Project Status & Planned Features
+
+This system was developed as part of an academic project. While the core scheduling and administrative features are implemented, several planned components were not completed:
+
+### 🔄 Planned (but not implemented)
+- **Distance-based calculation** using a geolocation API to determine delivery cost based on the user's address and ASVALE's location  
+- **Automated pricing system** tied to package type, distance, and operational rules  
+- **Online payments via Pix**, including transaction verification and payment status tracking  
+- **Automatic confirmation flow**, validating payment and finalizing the scheduling process
+
+These features were outlined during development but were not implemented due to the academic scope of the project. The repository remains available for reference and potential future expansion.
+
+
 ---
 
 ## 🛠️ Technologies Used
